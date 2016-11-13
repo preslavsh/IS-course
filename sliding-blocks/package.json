@@ -1,0 +1,25 @@
+{
+  "name": "sliding-blocks-home",
+  "version": "1.0.0",
+  "description": "Home for IS subject",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "astar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preslavsh/IS-course.git"
+  }
+  "author": "Preslav Semov",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
