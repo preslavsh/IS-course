@@ -1,0 +1,22 @@
+{
+  "name": "frog-game",
+  "version": "1.0.0",
+  "description": "Game with changing the place of frogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dfs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preslavsh/IS-course.git"
+  },
+  "author": "Preslav Semov",
+  "license": "ISC",
+   "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
